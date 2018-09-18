@@ -1,0 +1,8 @@
+Q, E - Change color schemes
+W, A, S, D - Move camera up, left, down and right respectively
+mouse1, num_pad_+ - Zoom camera in
+num_pad_- - Zoom camera out
+mouse wheel - Zoom camera in and out
+up_arrow - Increase iterations
+down_arrow - Decrease iterations
+space_bar - Toggles mouse input for the julia fractal. Hold space down for a cool effect!
