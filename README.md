@@ -11,4 +11,5 @@ Purpose/requirements:
 - And of course, no leaks
 
 What I learned (so much!):
-- How to translate a complex plane onto an XWindow (for XWindows the top left corner is treated as (0,0) where as for a complex plane (0,0) is the center of the window)
+- How to translate a complex plane onto an XWindow (for XWindows the top left corner is treated as (0,0)
+where as for a complex plane (0,0) is the center of the window)
